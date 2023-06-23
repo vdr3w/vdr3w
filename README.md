@@ -1,4 +1,4 @@
-# Olá! Eu sou [Andre Vieira](https://github.com/vdr3w), bem vindo ao meu perfil.
+# Bem vindo ao meu perfil.
 
 Entre em contato comigo: 
 <div>
