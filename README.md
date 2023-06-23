@@ -29,7 +29,7 @@ Estes repositórios tem como intuito armazenar os exercícios propostos no trell
 #### Características:
 
 - Divido por semanas
-- Comentários didáticos nos códigos
+- Comentários nos códigos para melhor releitura
 - Atualizado diariamente
 
 <div align="center">
