@@ -26,7 +26,7 @@ Entre em contato comigo:
 
 Estes repositórios tem como intuito armazenar os exercícios propostos no trello e também durante as aulas do curso DEVinHouse do Senai em parceria com a empresa Zucchetti.
 
-#### Características:
+#### Organização dos Repositórios:
 
 - Divido em semanas
 - Comentários nos códigos facilitando releitura
