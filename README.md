@@ -1,5 +1,7 @@
 # Bem vindo ao meu perfil.
 
+![](https://github-readme-stats.vercel.app/api?username=vdr3w&theme=blue-green)
+
 Entre em contato comigo: 
 <div>
     <a href="mailto:drewvieirasocial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Drew" /></a>
