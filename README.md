@@ -20,13 +20,16 @@ Entre em contato comigo:
 ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+## ✨ Principais Projetos
+
+### [Projeto Frond-End - DevInGym](https://github.com/vdr3w/projeto-devinhouse-m1) 
+### [Projeto Back-End - DevInGym](https://github.com/vdr3w/projeto-devinhouse-m2)
+
+Projeto Front-End e Projeto Back-End para o mesmo sistema de academia. Em breve publicarei o terceiro e ultimo projeto com a refatoração e integração total dos 2 projetos anteriores (Em andamento).
+
 ## 💻 Principais Repositórios
 
 ### [Trello DevInHouse](https://github.com/vdr3w/trellodevinhouse) / [Aulas DevInHouse](https://github.com/vdr3w/aulasdevinhouse)
-
-<div align="left">
-    <img src="https://camo.githubusercontent.com/4b37db8bd39e0377d29baed81fbfe9005d2d15f0ed6495968641493af09d3b44/68747470733a2f2f6c61623336352e7365736973656e61692e6f72672e62722f696d672f646576696e686f7573652d6c6f676f2e706e67" width="500" />
-</div>
 
 Estes repositórios tem como intuito armazenar os exercícios propostos no trello e também durante as aulas do curso DEVinHouse do Senai em parceria com a empresa Zucchetti.
 
