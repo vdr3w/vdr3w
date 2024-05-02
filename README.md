@@ -30,11 +30,6 @@ Entre em contato comigo:
 
 Projeto Front-End e Projeto Back-End para o mesmo sistema de academia. Em breve publicarei o terceiro e ultimo projeto com a refatoração e integração total dos 2 projetos anteriores (Em andamento).
 
-## 💻 Principais Repositórios
-
-### [Trello DevInHouse](https://github.com/vdr3w/trellodevinhouse) / [Aulas DevInHouse](https://github.com/vdr3w/aulasdevinhouse)
-
-Estes repositórios tem como intuito armazenar os exercícios propostos no trello e também durante as aulas do curso DEVinHouse do Senai em parceria com a empresa Zucchetti.
 
 #### Organização dos Repositórios:
 
