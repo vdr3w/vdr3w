@@ -29,17 +29,3 @@ Entre em contato comigo:
 ### [Projeto Back-End - DevInGym](https://github.com/vdr3w/projeto-devinhouse-m2)
 
 Projeto Front-End e Projeto Back-End para o mesmo sistema de academia. Em breve publicarei o terceiro e ultimo projeto com a refatoração e integração total dos 2 projetos anteriores (Em andamento).
-
-
-#### Organização dos Repositórios:
-
-- Divido em semanas
-- Comentários nos códigos facilitando releitura
-- Atualizado diariamente
-
-<div align="center">
-    <a href="https://github.com/vdr3w/trellodevinhouse"><img src="https://img.shields.io/badge/Trello%20DevInHouse-8A2BE2" alt="Link para o repositório" /></a>
-</div> 
-<div align="center">
-    <a href="https://github.com/vdr3w/aulasdevinhouse"><img src="https://img.shields.io/badge/Aulas%20DevInHouse-8A2BE2" alt="Link para o repositório" /></a>
-</div>
