@@ -1,19 +1,6 @@
 
 <h1 align="center">Bem vindo ao meu perfil. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<br/>
-
----
-
-## 🕺 Let's Connect
-
-
-<p align="center">
-	<a href="mailto:drewvieirasocial@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/vdr3w"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/vieiradrew"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-</p>
-
 ## 📊 Github Stats (Expand to View)
 ![Made with Love in Brazil](https://img.shields.io/badge/Made%20with-Love%20in%20Brazil-green)
 
@@ -40,6 +27,15 @@
 </details>
 
 <br/>
+
+## 🕺 Let's Connect
+
+
+<p align="center">
+	<a href="mailto:drewvieirasocial@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/vdr3w"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://linkedin.com/in/vieiradrew"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+</p>
 
 ---
 
