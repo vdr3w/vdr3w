@@ -59,10 +59,12 @@
 
 ## ✨ Principais Projetos
 
-`projeto-devinhouse-m1` (Módulo 1 - Front-End) e `projeto-devinhouse-m2` (Módulo 2 - Back-End): Estes projetos formam a base do sistema de academia, ambos desenvolvidos por mim. O Módulo 1 concentra-se na interface de usuário, enquanto o Módulo 2 lida com a lógica de negócios e o processamento de dados no backend.
+### `projeto-devinhouse-m1` (Front-End) / `projeto-devinhouse-m2` (Back-End)
+Estes projetos formam a base do sistema de academia, ambos desenvolvidos por mim. O Módulo 1 concentra-se na interface de usuário, enquanto o Módulo 2 lida com a lógica de negócios e o processamento de dados no backend.
 
-### Colaboração
-`M3P-FrontEnd` e `M3P-BackEnd` (Módulo 3): O terceiro e último módulo do projeto, realizado em colaboração com outras 21 pessoas, abrange a refatoração e a integração dos módulos anteriores, levando a um sistema mais robusto e integrado.
+### Colaboração: `M3P-FrontEnd`&`M3P-BackEnd` (Módulo 3)
+O terceiro e último módulo do projeto, realizado em colaboração com outras 21 pessoas, abrange a refatoração e a integração dos módulos anteriores, levando a um sistema mais robusto e integrado.
+
 
 <p align="center">
 	<a href="https://github.com/vdr3w/proj
