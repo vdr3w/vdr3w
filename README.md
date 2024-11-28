@@ -57,40 +57,6 @@
 
 ---
 
-## ✨ Principais Projetos
-
-### `projeto-devinhouse-m1` (Front-End) / `projeto-devinhouse-m2` (Back-End)
-Estes projetos formam a base do sistema de academia, ambos desenvolvidos por mim. O Módulo 1 concentra-se na interface de usuário, enquanto o Módulo 2 lida com a lógica de negócios e o processamento de dados no backend.
-
-### Colaboração: `M3P-FrontEnd`&`M3P-BackEnd` (Módulo 3)
-O terceiro e último módulo do projeto, realizado em colaboração com outras 21 pessoas, abrange a refatoração e a integração dos módulos anteriores, levando a um sistema mais robusto e integrado.
-
-
-<p align="center">
-	<a href="https://github.com/vdr3w/proj
-
-
-<p align="center">
-	<a href="https://github.com/vdr3w/projeto-devinhouse-m1">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vdr3w&repo=projeto-devinhouse-m1&hide_border=true&theme=dracula&show_icons=true" />
-	</a>
-	<a href="https://github.com/vdr3w/projeto-devinhouse-m2">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vdr3w&repo=projeto-devinhouse-m2&hide_border=true&theme=dracula&show_icons=true" />
-	</a>
-</p>
-<p align="center">
-	<a href="https://github.com/DEVinHouse-Zucchetti/M3P-FrontEnd">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DEVinHouse-Zucchetti&repo=M3P-FrontEnd&hide_border=true&theme=dracula&show_icons=true" />
-	</a>
-	<a href="https://github.com/DEVinHouse-Zucchetti/M3P-BackEnd">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DEVinHouse-Zucchetti&repo=M3P-BackEnd&hide_border=true&theme=dracula&show_icons=true" />
-	</a>
-</p>
-
-
-
----
-
 <p align="center">
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=vdr3w&margin-w=10&row=1&theme=gruvbox&no-bg=true"/>
 </p>
