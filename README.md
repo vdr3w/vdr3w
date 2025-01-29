@@ -4,7 +4,7 @@
 ## 📊 Github Stats (Expand to View)
 ![Made with Love in Brazil](https://img.shields.io/badge/Made%20with-Love%20in%20Brazil-green)
 
-<details> 
+
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
@@ -14,17 +14,11 @@
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vdr3w&show_icons=true&locale=en&layout=compact&theme=dracula" alt="vdr3w" height="192px"/>
 	</p>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-</details>
-
-<details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
 	<a href="https://github.com/vdr3w"><img alt="vDr3w's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=vdr3w&custom_title=vDr3w's%20Contribution%20Graph&theme=dracula" /></a>
   <br/>
-
-</details>
 
 <br/>
 
@@ -50,12 +44,6 @@
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=black)
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-## 🔥 Streak Stats
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vdr3w&theme=dracula" alt="vdr3w" /></p>
-
----
 
 <p align="center">
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=vdr3w&margin-w=10&row=1&theme=gruvbox&no-bg=true"/>
